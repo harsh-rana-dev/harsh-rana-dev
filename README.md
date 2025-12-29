@@ -10,33 +10,6 @@
 
 ---
 
-## Connect with me
-
-[![LinkedIn](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg)](https://linkedin.com/in/admin-harsh)
-
----
-
-## Languages & Tools
-
-**Data & Pipelines**
-
-- Python 🐍
-- Pandas
-- PostgreSQL
-- SQLAlchemy
-- Pydantic
-
-**DevOps / Deployment**
-
-- Docker & Docker Compose
-- Git & GitHub
-- GitHub Actions (Cron Scheduling)
-- pytest
-- Bash / Shell Scripting
-- YAML
-
----
-
 ## Featured Projects
 
 - **[Dataflow Sentinel](https://github.com/harsh-rana-dev/Dataflow-Sentinel)** — End-to-end Python DataOps pipeline with:
@@ -47,22 +20,60 @@
 
 ---
 
+## Connect with me
+
+[![LinkedIn](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg)](https://linkedin.com/in/admin-harsh){:height="20px" width="20px"}
+
+---
+
+## Languages & Tools
+
+**Core Data & Pipelines**
+
+- Python 🐍
+- Pandas
+- PostgreSQL
+- SQLAlchemy
+- Pydantic
+
+**Deployment & Automation**
+
+- Docker & Docker Compose
+- Git & GitHub
+- GitHub Actions (Cron Scheduling)
+- pytest
+- Bash / Shell Scripting
+- YAML
+- Linux
+
+**Web / Data Acquisition**
+
+- Scrapy
+- Playwright
+- Requests
+
+---
+
 ## About This Profile
 
-I focus on **reliable, maintainable, and low-overhead data pipelines**. My systems are designed to:
+I focus on **building reliable, maintainable Python data pipelines** that prioritize **data correctness, operational safety, and rerun reliability**.  
 
-- Be **idempotent**: safe to rerun without duplicates
-- **Validate data** at ingestion to prevent garbage entries
-- Provide **operational visibility** and logs for every run
-- Run consistently across environments via Docker & Compose
-- Automate scheduling and execution using GitHub Actions
+My pipelines are designed to:
 
-I’m actively seeking **junior / contract DataOps roles (EU/Remote)** where I can contribute to production-ready pipelines, operational reliability, and robust data workflows.
+- Be **idempotent**, safe to rerun without creating duplicates
+- **Validate incoming data** with schema enforcement
+- Provide **operational visibility** through logs and monitoring
+- Run consistently across environments using **Docker & Compose**
+- Automate scheduling and execution using **GitHub Actions**
+
+The current project, **Dataflow Sentinel**, demonstrates real-world DataOps concerns like safe retries, failure handling, and long-term maintainability.
 
 ---
 
 ## Goals & Philosophy
 
-- Build pipelines that **do not break** and are easy for anyone to maintain
-- Demonstrate real-world **DataOps principles** like retries, validation, idempotency, and observability
-- Share work transparently to signal reliability and professionalism
+- Build **robust pipelines** that operate without manual intervention
+- Demonstrate **DataOps best practices**: idempotency, validation, observability
+- Focus on **reliability and repeatability** over flashy tech
+- Share work transparently to signal **professional competence**
+- Secure a **junior / contract DataOps role (EU/Remote)** to apply real-world pipelines in production
