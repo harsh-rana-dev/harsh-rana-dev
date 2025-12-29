@@ -1,79 +1,54 @@
 # Hi 👋, I'm Harsh
 
-### Junior DataOps Engineer | Reliable Python Data Pipelines | Idempotency & Data Quality
+### Junior DataOps Engineer | Observable, Self-Healing Data Pipelines | Python & PostgreSQL
 
 ---
 
-🔭 I’m currently building **[Dataflow Sentinel](https://github.com/harsh-rana-dev/Dataflow-Sentinel)** — a production-style data pipeline that enforces schema validation, idempotent logic, and operational visibility.
+🔭 **Current Focus:** Engineering **[Dataflow Sentinel](https://github.com/harsh-rana-dev/Dataflow-Sentinel)** — a production-grade ETL framework focused on **Idempotency**, **Data Integrity**, and **Operational Observability**.
 
-📫 Reach me at **harshrana20025@gmail.com**
-
----
-
-## Featured Projects
-
-- **[Dataflow Sentinel](https://github.com/harsh-rana-dev/Dataflow-Sentinel)** — End-to-end Python DataOps pipeline with:
-  - Data validation & schema enforcement
-  - Idempotent ingestion and upsert logic
-  - Operational logging & rerun safety
-- **[90-Second Demo Video](https://www.loom.com/share/YOUR_LOOM_LINK)** — Quick walkthrough showing the pipeline in action
+[![Pipeline Status](https://github.com/harsh-rana-dev/Dataflow-Sentinel/actions/workflows/main.yml/badge.svg)](https://github.com/harsh-rana-dev/Dataflow-Sentinel/actions) 
+[![Tests Status](https://github.com/harsh-rana-dev/Dataflow-Sentinel/actions/workflows/tests.yml/badge.svg)](https://github.com/harsh-rana-dev/Dataflow-Sentinel/actions)
 
 ---
 
-## Connect with me
+## 🚀 Featured Project: Dataflow Sentinel
 
-[LinkedIn](https://linkedin.com/in/admin-harsh)
+**Dataflow Sentinel** is an automated pipeline designed to bridge the gap between "scripts that work" and "systems that last."
 
----
+- **Idempotent Ingestion:** Multi-stage SQLAlchemy upsert logic ensuring zero duplicate records on reruns.
+- **Validation Gates:** Strict schema enforcement using **Pydantic** to reject malformed data before it hits the DB.
+- **Operational Pulse:** Generates JSON run summaries (status, row counts, duration) for external monitoring.
+- **Reproducible Ops:** Fully containerized via **Docker Compose** for consistent environment behavior.
 
-## Languages & Tools
-
-**Core Data & Pipelines**
-
-- Python 🐍
-- Pandas
-- PostgreSQL
-- SQLAlchemy
-- Pydantic
-
-**Deployment & Automation**
-
-- Docker & Docker Compose
-- Git & GitHub
-- GitHub Actions (Cron Scheduling)
-- pytest
-- Bash / Shell Scripting
-- YAML
-- Linux
-
-**Web / Data Acquisition**
-
-- Scrapy
-- Playwright
-- Requests
+🎥 **[Watch the 90-Second Operational Walkthrough](https://www.loom.com/share/YOUR_LOOM_LINK)**
 
 ---
 
-## About This Profile
+## 🛠️ Stack & Expertise
 
-I focus on **building reliable, maintainable Python data pipelines** that prioritize **data correctness, operational safety, and rerun reliability**.  
+**Data Engineering & Ops**
+- **Core:** Python (Pandas, Pydantic), SQL (PostgreSQL), SQLAlchemy
+- **Automation:** GitHub Actions (Cron), Bash Scripting, Makefiles
+- **Infrastructure:** Docker, Docker Compose, Linux (Ubuntu/Debian)
+- **Testing:** pytest (Unit/Integration), Data Validation
 
-My pipelines are designed to:
-
-- Be **idempotent**, safe to rerun without creating duplicates
-- **Validate incoming data** with schema enforcement
-- Provide **operational visibility** through logs and monitoring
-- Run consistently across environments using **Docker & Compose**
-- Automate scheduling and execution using **GitHub Actions**
-
-The current project, **Dataflow Sentinel**, demonstrates real-world DataOps concerns like safe retries, failure handling, and long-term maintainability.
+**Data Acquisition**
+- Scrapy, Playwright, Requests (Idempotent retries implemented)
 
 ---
 
-## Goals & Philosophy
+## 🏛️ Engineering Philosophy
 
-- Build **robust pipelines** that operate without manual intervention
-- Demonstrate **DataOps best practices**: idempotency, validation, observability
-- Focus on **reliability and repeatability** over flashy tech
-- Share work transparently to signal **professional competence**
-- Secure a **junior / contract DataOps role (EU/Remote)** to apply real-world pipelines in production
+I build for **Monday morning at 4:00 AM**. 
+When a pipeline fails, it shouldn't be a mystery. My systems are designed to:
+1. **Fail Loudly:** Clear logging and validation errors.
+2. **Restart Safely:** Idempotent logic means no manual cleanup required after a crash.
+3. **Stay Clean:** Bronze/Silver/Gold data separation to maintain lineage and trust.
+
+---
+
+## 📫 Connect & Collaborate
+
+- **Email:** [harshrana20025@gmail.com](mailto:harshrana20025@gmail.com)
+- **LinkedIn:** [linkedin.com/in/admin-harsh](https://linkedin.com/in/admin-harsh)
+- **Availability:** Open for **Junior DataOps / Automation Contract Roles (EU/Remote)**
