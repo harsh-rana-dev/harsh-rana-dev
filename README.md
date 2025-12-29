@@ -22,7 +22,7 @@
 
 ## Connect with me
 
-[![LinkedIn](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg)](https://linkedin.com/in/admin-harsh){:height="20px" width="20px"}
+[LinkedIn](https://linkedin.com/in/admin-harsh)
 
 ---
 
