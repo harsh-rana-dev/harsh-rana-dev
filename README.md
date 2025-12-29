@@ -1,14 +1,68 @@
-<h1 align="center">Hi 👋, I'm harsh</h1>
-<h3 align="center">placeholder</h3>
+# Hi 👋, I'm Harsh
 
-- 🔭 I’m currently working on [Dataflow-Sentinel](https://github.com/harsh-rana-dev/Dataflow-Sentinel)
+### Junior DataOps Engineer | Reliable Python Data Pipelines | Idempotency & Data Quality
 
-- 📫 How to reach me **harshrana20025@gmail**
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/admin-harsh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="admin-harsh" height="30" width="40" /></a>
-</p>
+🔭 I’m currently building **[Dataflow Sentinel](https://github.com/harsh-rana-dev/Dataflow-Sentinel)** — a production-style data pipeline that enforces schema validation, idempotent logic, and operational visibility.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+📫 Reach me at **harshrana20025@gmail.com**
+
+---
+
+## Connect with me
+
+[![LinkedIn](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg)](https://linkedin.com/in/admin-harsh)
+
+---
+
+## Languages & Tools
+
+**Data & Pipelines**
+
+- Python 🐍
+- Pandas
+- PostgreSQL
+- SQLAlchemy
+- Pydantic
+
+**DevOps / Deployment**
+
+- Docker & Docker Compose
+- Git & GitHub
+- GitHub Actions (Cron Scheduling)
+- pytest
+- Bash / Shell Scripting
+- YAML
+
+---
+
+## Featured Projects
+
+- **[Dataflow Sentinel](https://github.com/harsh-rana-dev/Dataflow-Sentinel)** — End-to-end Python DataOps pipeline with:
+  - Data validation & schema enforcement
+  - Idempotent ingestion and upsert logic
+  - Operational logging & rerun safety
+- **[90-Second Demo Video](https://www.loom.com/share/YOUR_LOOM_LINK)** — Quick walkthrough showing the pipeline in action
+
+---
+
+## About This Profile
+
+I focus on **reliable, maintainable, and low-overhead data pipelines**. My systems are designed to:
+
+- Be **idempotent**: safe to rerun without duplicates
+- **Validate data** at ingestion to prevent garbage entries
+- Provide **operational visibility** and logs for every run
+- Run consistently across environments via Docker & Compose
+- Automate scheduling and execution using GitHub Actions
+
+I’m actively seeking **junior / contract DataOps roles (EU/Remote)** where I can contribute to production-ready pipelines, operational reliability, and robust data workflows.
+
+---
+
+## Goals & Philosophy
+
+- Build pipelines that **do not break** and are easy for anyone to maintain
+- Demonstrate real-world **DataOps principles** like retries, validation, idempotency, and observability
+- Share work transparently to signal reliability and professionalism
