@@ -1,6 +1,6 @@
 # Hi 👋, I'm Harsh
 
-### DataOps Engineer | Observable, Self-Healing Data Pipelines | Python & PostgreSQL
+### DataOps Engineer | Observable, Self-Healing Data Pipelines
 
 ---
 
