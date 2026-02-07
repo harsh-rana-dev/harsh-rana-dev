@@ -1,61 +1,57 @@
-# Hi 👋, I'm Harsh
+# Hi, I’m Harsh 👋
 
-### DataOps Engineer | Observable, Self-Healing Data Pipelines
-
----
-
-🔭 **Current Focus:** Engineering **[Dataflow Sentinel](https://github.com/harsh-rana-dev/Dataflow-Sentinel)** — a production-style ETL framework emphasizing **Idempotency**, **Data Integrity**, and **Operational Observability**.
-
-[![Pipeline Status](https://github.com/harsh-rana-dev/Dataflow-Sentinel/actions/workflows/main.yml/badge.svg)](https://github.com/harsh-rana-dev/Dataflow-Sentinel/actions)  
-[![Tests Status](https://github.com/harsh-rana-dev/Dataflow-Sentinel/actions/workflows/tests.yml/badge.svg)](https://github.com/harsh-rana-dev/Dataflow-Sentinel/actions)
+### DataOps / Analytics Engineering — Reliable, Observable Data Pipelines
 
 ---
 
-## 🚀 Featured Project: Dataflow Sentinel
+I build **production-style data pipelines** focused on **data quality, operational reliability, and reproducibility**.
 
-**Dataflow Sentinel** is an automated pipeline designed to bridge the gap between “scripts that work” and **systems that last**.
-
-- **Idempotent Ingestion:** Multi-stage SQLAlchemy upsert logic ensures zero duplicates on reruns.
-- **Validation Gates:** Strict schema enforcement via **Pydantic** to reject malformed data before hitting the DB.
-- **Operational Pulse:** Generates JSON run summaries (status, row counts, duration) for external monitoring.
-- **Reproducible Ops:** Fully containerized via **Docker Compose** for consistent environment behavior.
-
-🎥 **[Watch the 90-Second Operational Walkthrough](https://www.loom.com/share/YOUR_LOOM_LINK)**
+My work prioritizes systems that **fail loudly, surface data issues early, and run consistently across local, Docker, and CI environments**.
 
 ---
 
-## 🛠️ Stack & Expertise
+## 🚀 Featured Project: DATAFLOW-SENTINEL
 
-**Data Engineering & Ops**
+🔗 https://github.com/harsh-rana-dev/Dataflow-Sentinel
 
-- Python (Pandas, Pydantic)  
-- SQL (PostgreSQL) & SQLAlchemy  
-- Git & GitHub  
-- GitHub Actions (Cron Scheduling)  
-- Docker & Docker Compose  
-- Linux / Bash / Shell scripting  
-- pytest (Unit & Integration Testing)  
+A production-inspired DataOps pipeline designed to prevent **silent failures and stale data**.
 
-**Data Acquisition (Project-Level)**
+**What it demonstrates:**
+- **Medallion Architecture:** Bronze → Silver → Gold data layers
+- **Schema Enforcement:** Pydantic-based validation gates
+- **Freshness Monitoring:** Explicit freshness signals, not implicit success
+- **Operational Parity:** Identical behavior on local, Docker, and GitHub Actions
+- **CI-Driven Execution:** Scheduled runs with visible success/failure notifications
 
-- Scrapy, Playwright, Requests with idempotent retry logic  
-
----
-
-## 🏛️ Engineering Philosophy
-
-I build systems for **Monday morning at 4:00 AM**. When a pipeline fails, it shouldn’t be a mystery. My pipelines are designed to:
-
-1. **Fail Loudly:** Logging and validation make errors immediately visible.  
-2. **Restart Safely:** Idempotent logic eliminates the need for manual cleanup.  
-3. **Stay Clean:** Bronze/Silver/Gold separation maintains lineage and data trust.  
-
-The goal is reliability, maintainability, and operational transparency over flashy tech.
+Built to resemble **real DataOps and Analytics Engineering workflows**, not demo scripts.
 
 ---
 
-## 📫 Connect & Collaborate
+## 🛠️ Core Stack
 
-- **Email:** [harshrana20025@gmail.com](mailto:harshrana20025@gmail.com)  
-- **LinkedIn:** [linkedin.com/in/admin-harsh](https://linkedin.com/in/admin-harsh)  
-- **Availability:** Open for **Junior DataOps / Automation Contract Roles (EU/Remote)**
+- Python, pandas, Pydantic
+- PostgreSQL (local & Neon), SQLAlchemy
+- Docker & Docker Compose
+- GitHub Actions, Makefile
+- pytest, Linux / Bash
+- Git & GitHub
+
+---
+
+## 🏛️ Working Philosophy
+
+I design pipelines for **ownership and predictability**, not experimentation.
+
+That means:
+- Validate data before trusting it
+- Make failures visible and actionable
+- Keep environments reproducible
+- Prefer boring, reliable systems over clever ones
+
+---
+
+## 📫 Availability
+
+- **Open to EU / Remote DataOps & Analytics Engineering contract roles**
+- Email: harshrana20025@gmail.com  
+- LinkedIn: https://linkedin.com/in/admin-harsh
