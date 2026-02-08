@@ -27,7 +27,7 @@ Built to resemble **real DataOps and Analytics Engineering workflows**, not demo
 
 ---
 
-## 🛠️ Core Stack
+## 🧊 Core Stack
 
 - Python, pandas, Pydantic
 - PostgreSQL (local & Neon), SQLAlchemy
