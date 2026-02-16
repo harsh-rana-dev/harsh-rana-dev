@@ -79,6 +79,6 @@ Reliable systems scale. Silent ones break.
 
 ## 📫 Availability
 
-* Open to **EU / Remote DataOps / Data & Automation Enginerr contract roles**
+* Open to **EU / Remote DataOps / Data & Automation Engineer contract roles**
 * Email: [harshrana20025@gmail.com](mailto:harshrana20025@gmail.com)
 * LinkedIn: [https://linkedin.com/in/admin-harsh](https://linkedin.com/in/admin-harsh)
